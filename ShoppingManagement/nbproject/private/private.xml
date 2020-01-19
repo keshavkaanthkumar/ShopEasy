@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/AdministrativeRole/ManageEmployeeJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/MainJFrame.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Organization/PaymentOrganization.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Role/PaymentProcessorRole.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/PaymentProcessRole/PaymentProcessWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/WorkQueue/WorkQueue.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/InventoryRole/ManageProductRequestJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Organization/AdminOrganization.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/AdministrativeRole/ManageUserAccountJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Organization/VendorOrganization.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Utilities/Maps.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Role/Role.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Product/Item.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Role/AdminRole.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/VendorRole/ManageProducts.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/AdministrativeRole/ManageOrganizationJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Product/Delivery.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Enterprise/Enterprise.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/AdministrativeRole/AdminWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/EcoSystem.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/WorkQueue/WorkRequest.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/InventoryRole/StockCheckRequestJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/CustomerRole/CustomerWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/UserAccount/UserAccountDirectory.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/SystemAdminWorkArea/ManageNetworkJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/WorkQueue/OrderWorkRequest.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/VendorRole/VendorWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Organization/InventoryOrganization.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Enterprise/DeliveryEnterprise.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Organization/CustomerOrganization.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/VendorRole/ProductAnalysisJPanel.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Organization/OrganizationDirectory.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/WorkQueue/PaymentProcessWorkRequest.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Organization/DeliveryOrganization.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/ConfigureASystem.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/WorkQueue/CheckStockWorkRequest.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Role/SystemAdminRole.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/DB4OUtil/DB4OUtil.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/UserAccount/UserAccount.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Network/Network.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/Business/Organization/Organization.java</file>
+            <file>file:/C:/Users/kshar/Documents/1st%20Semester/AED%20course/22615n16_inventorymanagementsystem/Final%20Project/ShoppingManagement/src/userinterface/InventoryRole/InventoryWorkAreaJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
